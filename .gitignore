@@ -1,0 +1,5 @@
+.env
+generated_videos
+final_output.mp4
+.DS_Store
+.venv
