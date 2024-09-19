@@ -1,7 +1,9 @@
 
-# Luma Labs Multi keyframe Video Generation Script
+# Luma Labs Multi Image Video Generation Script
 
 This repository contains scripts for generating AI-powered videos using Luma Labs' API. The project focuses on creating smooth transitions between multiple image frames to produce captivating video sequences.
+
+[![Watch the video](https://github.com/Sigil-Wen/multi-keyframe-video-generation/blob/main/final_output.mp4)](https://github.com/Sigil-Wen/multi-keyframe-video-generation/blob/main/final_output.mp4)
 
 ## Features
 
